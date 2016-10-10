@@ -10,7 +10,7 @@ class AppComponent extends React.Component {
     return (
       <div className="index">
         <img src={yeomanImage} alt="Yeoman Generator" />
-          <span>哈哈</span>
+          <span>哈哈1</span>
         <div className="notice">Please edit <code>src/components/Main.js</code> to get started!</div>
       </div>
     );
